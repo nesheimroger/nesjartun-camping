@@ -1,0 +1,140 @@
+/* CSS Document */
+
+body{
+	text-align: center;
+	background: #999999;
+	font-family:"Times New Roman", Times, serif;
+}
+
+div#container{
+	margin: 0 auto;
+	padding: 0;
+	width: 800px;
+	/*Background #9999999 er med i body, den går i arv til container. Trenger ikke redeklarere den. */
+	text-align: left;
+	
+}
+
+div#lang{
+	float:right;
+	background:#999999;
+	width:800px;
+}
+div#lang a{
+	text-decoration:none;
+}
+
+img.lang{
+	float:right;
+	margin:5px;
+	border:0px;
+}
+
+div#header{
+	width:800px;
+	height:auto;
+	margin: 0 auto;
+	background:#999999;
+}
+div#nav{
+	text-align: center;
+	border-bottom:1px solid;
+	background:#FFF;
+	border-left:1px solid;
+	border-right:1px solid;
+	border-top:1px solid;
+}
+
+
+div#nav a{
+	font-size: 20px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+div#nav a:link{
+	color:#000000;
+}
+
+div#nav a:visited{
+	color:#000000;	
+}
+
+div#nav a:hover{
+	color:#990000;	
+}
+
+div#nav a.current{
+	color:#000000;	
+	color:#333;
+}
+
+div#content{
+
+	/*background:url(images/fiskemann.png) no-repeat right bottom;
+	background-attachment: fixed;*/
+
+	background-image:url(images/fiskemann.png);
+	background-color: #fff;
+	background-repeat:no-repeat;
+	background-position:bottom right;
+	border-left:1px solid;
+	border-bottom:1px solid;
+	border-right:1px solid; 
+}
+
+div#main{
+	width: 600px;
+	float: left;
+	padding: 5px 2px 2px 10px;
+}	
+div#main a{
+	text-decoration:none;
+}
+
+div#additional{
+	width: 178px;
+	float: right;
+	padding-top:5px;
+	padding-bottom: 200px;
+	text-align: center;
+	border-left: 1px solid #000;
+	height:inherit;
+}
+
+div#additional a{
+	font-size: 12px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+div#additional a:link{
+	color:#000000;
+}
+
+div#additional a:visited{
+	color:#000000;	
+}
+
+div#additional a:hover{
+	color:#990000;	
+}
+	
+div#footer{
+	margin: 0 auto;
+	clear: both;
+}
+
+h2{
+	color:#900;
+	text-align: center;
+}
+h3{
+	color:#900;
+}
+
+.bottomhack {
+	width: 619px;
+	clear: both;
+	border-right: 1px solid #000;
+}
