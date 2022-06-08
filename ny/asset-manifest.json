@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.74d9a696.css",
-    "main.js": "/static/js/main.24038d89.js",
-    "static/js/787.24655f5f.chunk.js": "/static/js/787.24655f5f.chunk.js",
-    "static/media/cabin_9_11.jpg": "/static/media/cabin_9_11.325d36e42cdb35eee031.jpg",
-    "static/media/cabin_6.jpg": "/static/media/cabin_6.2d47f052b0e6edd657b9.jpg",
-    "static/media/cabin_3.jpg": "/static/media/cabin_3.fa974aa34dbd1529a095.jpg",
-    "static/media/cabin_8_10_12.jpg": "/static/media/cabin_8_10_12.6dda5bae7b5f20fd270b.jpg",
-    "static/media/cabin_4.jpg": "/static/media/cabin_4.745e95fa08c451343e11.jpg",
-    "static/media/cabin_2.jpg": "/static/media/cabin_2.21be83ef9b87f58c1ebf.jpg",
-    "static/media/cabin_5.jpg": "/static/media/cabin_5.0d38cc0d674784c1bd61.jpg",
-    "static/media/fra_vatnet.jpg": "/static/media/fra_vatnet.4c54f31d548e33e38c5a.jpg",
-    "static/media/cabins_top.jpg": "/static/media/cabins_top.416a907e420aee6e7257.jpg",
-    "static/media/kiosk.jpg": "/static/media/kiosk.37d4f6a27d5cbafeb7aa.jpg",
-    "static/media/saniter3.jpg": "/static/media/saniter3.9293da59c46ccf220bd0.jpg",
-    "static/media/brygge.jpg": "/static/media/brygge.8989ec6a2e41687fb192.jpg",
-    "static/media/lekeplass.jpg": "/static/media/lekeplass.4651d6b6aec222999a45.jpg",
-    "static/media/camping.jpg": "/static/media/camping.75dfff2b44185e902ead.jpg",
-    "static/media/fisk.jpg": "/static/media/fisk.d8b3c9d1520cdb0cb77e.jpg",
-    "index.html": "/index.html",
-    "main.74d9a696.css.map": "/static/css/main.74d9a696.css.map",
-    "main.24038d89.js.map": "/static/js/main.24038d89.js.map",
-    "787.24655f5f.chunk.js.map": "/static/js/787.24655f5f.chunk.js.map"
+    "main.css": "./static/css/main.74d9a696.css",
+    "main.js": "./static/js/main.1d4cd1fc.js",
+    "static/js/787.24655f5f.chunk.js": "./static/js/787.24655f5f.chunk.js",
+    "static/media/cabin_9_11.jpg": "./static/media/cabin_9_11.325d36e42cdb35eee031.jpg",
+    "static/media/cabin_6.jpg": "./static/media/cabin_6.2d47f052b0e6edd657b9.jpg",
+    "static/media/cabin_3.jpg": "./static/media/cabin_3.fa974aa34dbd1529a095.jpg",
+    "static/media/cabin_8_10_12.jpg": "./static/media/cabin_8_10_12.6dda5bae7b5f20fd270b.jpg",
+    "static/media/cabin_4.jpg": "./static/media/cabin_4.745e95fa08c451343e11.jpg",
+    "static/media/cabin_2.jpg": "./static/media/cabin_2.21be83ef9b87f58c1ebf.jpg",
+    "static/media/cabin_5.jpg": "./static/media/cabin_5.0d38cc0d674784c1bd61.jpg",
+    "static/media/fra_vatnet.jpg": "./static/media/fra_vatnet.4c54f31d548e33e38c5a.jpg",
+    "static/media/cabins_top.jpg": "./static/media/cabins_top.416a907e420aee6e7257.jpg",
+    "static/media/kiosk.jpg": "./static/media/kiosk.37d4f6a27d5cbafeb7aa.jpg",
+    "static/media/saniter3.jpg": "./static/media/saniter3.9293da59c46ccf220bd0.jpg",
+    "static/media/brygge.jpg": "./static/media/brygge.8989ec6a2e41687fb192.jpg",
+    "static/media/lekeplass.jpg": "./static/media/lekeplass.4651d6b6aec222999a45.jpg",
+    "static/media/camping.jpg": "./static/media/camping.75dfff2b44185e902ead.jpg",
+    "static/media/fisk.jpg": "./static/media/fisk.d8b3c9d1520cdb0cb77e.jpg",
+    "index.html": "./index.html",
+    "main.74d9a696.css.map": "./static/css/main.74d9a696.css.map",
+    "main.1d4cd1fc.js.map": "./static/js/main.1d4cd1fc.js.map",
+    "787.24655f5f.chunk.js.map": "./static/js/787.24655f5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74d9a696.css",
-    "static/js/main.24038d89.js"
+    "static/js/main.1d4cd1fc.js"
   ]
 }
