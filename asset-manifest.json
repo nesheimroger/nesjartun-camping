@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.74d9a696.css",
-    "main.js": "./static/js/main.f72a74ee.js",
+    "main.js": "./static/js/main.02d93a96.js",
     "static/js/787.24655f5f.chunk.js": "./static/js/787.24655f5f.chunk.js",
     "static/media/cabin_9_11.jpg": "./static/media/cabin_9_11.325d36e42cdb35eee031.jpg",
     "static/media/cabin_6.jpg": "./static/media/cabin_6.2d47f052b0e6edd657b9.jpg",
@@ -16,15 +16,15 @@
     "static/media/saniter3.jpg": "./static/media/saniter3.9293da59c46ccf220bd0.jpg",
     "static/media/brygge.jpg": "./static/media/brygge.8989ec6a2e41687fb192.jpg",
     "static/media/lekeplass.jpg": "./static/media/lekeplass.4651d6b6aec222999a45.jpg",
+    "static/media/fisk.jpg": "./static/media/fisk.7fd39dd3479ba5e83e7b.jpg",
     "static/media/camping.jpg": "./static/media/camping.75dfff2b44185e902ead.jpg",
-    "static/media/fisk.jpg": "./static/media/fisk.d8b3c9d1520cdb0cb77e.jpg",
     "index.html": "./index.html",
     "main.74d9a696.css.map": "./static/css/main.74d9a696.css.map",
-    "main.f72a74ee.js.map": "./static/js/main.f72a74ee.js.map",
+    "main.02d93a96.js.map": "./static/js/main.02d93a96.js.map",
     "787.24655f5f.chunk.js.map": "./static/js/787.24655f5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74d9a696.css",
-    "static/js/main.f72a74ee.js"
+    "static/js/main.02d93a96.js"
   ]
 }
